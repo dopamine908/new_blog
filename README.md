@@ -24,4 +24,11 @@ hexo clean
 ```
 hexo deploy
 ```
+[部署教學](https://hexo.io/zh-tw/docs/github-pages.html#%E4%B8%80%E9%8D%B5%E9%83%A8%E5%B1%AC)
+[一鍵部署](https://hexo.io/zh-tw/docs/github-pages.html#%E4%B8%80%E9%8D%B5%E9%83%A8%E5%B1%AC)
+[一鍵部署指令 github repo](https://github.com/hexojs/hexo-deployer-git)
 
+## TODO
+- [ ] 主題設定
+- [ ] 遷移過往資料
+- [ ] 新文章更新
