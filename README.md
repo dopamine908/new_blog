@@ -33,3 +33,5 @@ hexo deploy
 - [ ] 遷移過往資料
 - [ ] 新文章更新
 - [ ] 舊文章的圖片失效修復
+- [ ] web icon
+- [ ] user icon
