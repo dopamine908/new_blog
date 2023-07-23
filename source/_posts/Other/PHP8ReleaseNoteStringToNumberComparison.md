@@ -6,7 +6,7 @@ tags:
 - PHP8
 - WTF PHP
 categories: 
-- 日常開發筆記
+- PHP
 cover: https://picsum.photos/id/1042/800/600
 ---
 

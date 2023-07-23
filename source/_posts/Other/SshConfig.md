@@ -4,7 +4,7 @@ date: 2021-06-25 14:25:44
 tags:
   - SSH
 categories:
-  - SSH
+  - 日常開發筆記
 cover: https://picsum.photos/id/660/800/600
 ---
 
